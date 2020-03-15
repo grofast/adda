@@ -1,5 +1,4 @@
 import telebot
-import random
 from telebot import types
 bot = telebot.TeleBot("893368079:AAGfBJ9eU2t6WSSOHiwMQWVd1BkRZpurgzo")
  
